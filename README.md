@@ -34,10 +34,10 @@ Much of my current work revolves around **Python, Nextflow, Snakemake, container
 ## 🦇 Ancient RNA viruses
 
 During my PhD at Charité Berlin, I worked on recovering and analysing RNA virus genomes from historical museum specimens. 
-I was able to revover a **Bandavirus genome from a bat collected in 1919**. This was one of the oldest sequenced mammalian RNA viruses at the time and provides a unique opportunity to study long term evolutionary processes in RNA arboviruses.
+I was able to revover a **Bandavirus genome from a bat collected in 1919**. This was one of the oldest sequenced mammalian RNA viruses at the time and provides a unique opportunity to study long term evolutionary processes in RNA arboviruses. The work was published in the journal [Virus Evolution](https://doi.org/10.1093/ve/veag034).
 
 The project combined NGS data processing, phylogenetics, evolutionary analysis, and experimental virology.
 
 [Ancient RNA virus project](https://github.com/UdoGi/ancient_bunyavirus)
 
-I was very fortunate to have had supervision of this work by **Christian Drosten and Terry Jones**, and owe both of them a big thank you for the guidance, discussions, and freedom to explore some fairly unusual ideas involving century-old bats and RNA viruses.
+During this time at the [Institute of Virology](https://github.com/VirologyCharite) I was very fortunate to have had supervision of this work by **Christian Drosten and [Terry Jones](https://github.com/terrycojones)**, and owe both of them a big thank you for the guidance, discussions, and freedom to explore some fairly unusual ideas involving century-old bats and RNA viruses.
